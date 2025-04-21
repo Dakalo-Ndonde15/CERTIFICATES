@@ -1,6 +1,6 @@
 <h1>Hi I'm Dakalo, an <br/><a href="https://github.com/Dakalo-Ndonde15/">IT Support Specialist</a>
 
-<h2>🎖 HOME LABS / CREDENTIALS:🎖</h2>
+<h2>🎖&nbsp;<a href="https://github.com/Dakalo-Ndonde15/CERTIFICATES/tree/main/Coursera%20Project%20Network">HOME LABS</a>&nbsp/&nbsp<a href="https://github.com/Dakalo-Ndonde15/CERTIFICATES/tree/main/Professional-Certificates">CREDENTIALS</a>:🎖</h2>
 
 <b>EAST CHAMER IT Quiz</b>
   - [INTRODUCTION TO IP ADRESSES](https://www.eastcharmer.com/participant-page/f00375de-4df3-4498-b1d2-e531b5b94d4a?programId=f00375de-4df3-4498-b1d2-e531b5b94d4a&participantId=0e76aa9a-750a-450d-aeb8-cc57cb529872)
