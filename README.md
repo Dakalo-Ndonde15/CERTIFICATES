@@ -20,4 +20,4 @@ https://www.udemy.com/share/106kSE3@6LJBsF_QxFE4dxCjX_24T9uMYjzodhUC_xfjFrGnXiZO
  - [START IT SUPPORT CAREER | NO CERTS OR DEGREE | INFORMATION](https://www.udemy.com/share/106Ae43@PysRzj1dzeQ90E6zejAkk7z2CPqt5-lQNkLN2BODUZF6965URzF_Rrj5Ef2kI1yrLw==/)
 
 -![Repo Image](https://github.com/Dakalo-Ndonde15/CERTIFICATES/blob/main/Professional-Certificates/EAST%20CHAMER.png)
--![Repo Image](https://github.com/Dakalo-Ndonde15/CERTIFICATES/blob/main/Professional-Certificates/jss-logo.webp)
+-![Repo Image](https://github.com/Dakalo-Ndonde15/CERTIFICATES/blob/main/Professional-Certificates/JOBSKILLSHARE%20COMUNITY%20.webp)
