@@ -15,8 +15,15 @@
 <b>CISCO PACKET TRACER</b>
   - [HOME LAB CREDENTIALS](https://github.com/Dakalo-Ndonde15/CERTIFICATES/tree/main/Coursera%20Project%20Network/CISCO%20PACKET%20TRACER-HOME%20LAB)
 
+<b>LINUX </b>
+  - [HOME LAB CREDENTIALS](https://github.com/Dakalo-Ndonde15/CERTIFICATES/tree/main/Coursera%20Project%20Network/Linux%20HOME-LABS%20)
 
+<b>MICROSOFT OFFICE 365</b>
+  - [HOME LAB CREDENTIALS](https://github.com/Dakalo-Ndonde15/CERTIFICATES/tree/main/Coursera%20Project%20Network/MICROSOFT%20OFFICE365-HOME-LABS)
 
--![Repo Image](https://github.com/Dakalo-Ndonde15/CERTIFICATES/blob/main/Professional-Certificates/coursera-projectnetwork-purplesquare.png)
+<b>WIRESHARK</b>
+  - [HOME LAB CREDENTIALS](https://github.com/Dakalo-Ndonde15/CERTIFICATES/tree/main/Coursera%20Project%20Network/WIRESHARK-%20HOME%20LAB)
+ 
+ -![Repo Image](https://github.com/Dakalo-Ndonde15/CERTIFICATES/blob/main/Professional-Certificates/coursera-projectnetwork-purplesquare.png)
 
 
