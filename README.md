@@ -24,11 +24,9 @@ https://www.udemy.com/share/106kSE3@6LJBsF_QxFE4dxCjX_24T9uMYjzodhUC_xfjFrGnXiZO
  - [START IT SUPPORT CAREER | NO CERTS OR DEGREE | INFORMATION](https://www.udemy.com/share/106Ae43@PysRzj1dzeQ90E6zejAkk7z2CPqt5-lQNkLN2BODUZF6965URzF_Rrj5Ef2kI1yrLw==/)
 
 <b>ALISON</b>
-  - [DIPLOMA IN INFORMATION TECHNOLOGY SUPPORT](
-https://www.udemy.com/share/106kSE3@6LJBsF_QxFE4dxCjX_24T9uMYjzodhUC_xfjFrGnXiZOtT-KIKg5Hcelit27qn5crw==/)
+  - [DIPLOMA IN INFORMATION TECHNOLOGY SUPPORT](https://alison.com/course/diploma-in-information-technology-support)
 
-- [DIPLOMA IN COMPUTER NETWORKING](
-https://www.udemy.com/share/106kSE3@6LJBsF_QxFE4dxCjX_24T9uMYjzodhUC_xfjFrGnXiZOtT-KIKg5Hcelit27qn5crw==/)
+- [DIPLOMA IN COMPUTER NETWORKING](https://alison.com/topic/learn/72307/diploma-in-computer-networking-first-assessment)
 
 
 -![Repo Image](https://github.com/Dakalo-Ndonde15/CERTIFICATES/blob/main/Professional-Certificates/EAST%20CHAMER.png)
