@@ -3,7 +3,7 @@
 
 <h2>🎖<a href="https://github.com/Dakalo-Ndonde15/CERTIFICATES/tree/main/Coursera%20Project%20Network"><img src="https://img.shields.io/badge/-HOME_LABS-gold?style=for-the-badge"></a>&nbsp;&nbsp;<a href="https://github.com/Dakalo-Ndonde15/CERTIFICATES/tree/main/Professional-Certificates"><img src="https://img.shields.io/badge/-CREDENTIALS-magenta?style=for-the-badge"></a>🎖</h2>
 
-<b>KEVTECH ACADEMY </b>
+<b>KEVTECH ACADEMY (Specialization) </b>
   - [MICROSOFT AZURE TRAINING](https://www.kevtechitsupport.com/products/microsoft-azure-training)
    
 <b>EAST CHAMER IT Quiz</b>
